@@ -5,9 +5,9 @@ import java.util.List;
 public class Task1 {
     public static void main(String[] args) {
 
-        //Task 1
-
-        //Create a list of 5-10 Player objects
+        /*Task 1
+        Create a list of 5-10 Player objects
+         */
         List<Player> players = new ArrayList<>(List.of(
                 new Player("Sergey", 21, 20),
                 new Player("Andrey", 43, 36),
